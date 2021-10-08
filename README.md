@@ -3,7 +3,6 @@
 I'm a software engineer specializing in building beautiful interfaces & digital experiences 
 
 - 💻 &nbsp; To know more about me, check out my [Personal Website](https://www.josepharias.com/) 
-- 💬 &nbsp; Connect with me on [Linkedin](https://www.linkedin.com/in/arias-joseph/)
 - 📃 &nbsp; [My resume](https://joseph-resume.s3.amazonaws.com/joseph-arias-resume.pdf) 
 - 📫 &nbsp; How to reach me: arias.joseph.a@gmail.com
 - ⚡ &nbsp; Fun fact: When I'm not in front of a computer screen, I like to take classes on salsa dancing and boxing!
