@@ -1,6 +1,6 @@
 ### Hi there 👋 &nbsp; I'm Joseph Arias
 
-I'm a software engineer specializing in building beautiful interfaces & digital experiences.
+I'm a software engineer specializing in building beautiful interfaces & digital experiences
 
 - 💻 &nbsp; To know more about me, check out my [Personal Website](https://www.josepharias.com/) 
 - 📃 &nbsp; [My resume](https://joseph-resume.s3.amazonaws.com/joseph-arias-resume.pdf) 
