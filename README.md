@@ -1,4 +1,4 @@
-### Hi there 👋 &nbsp; I'm Joseph Arias
+## Hi there 👋 &nbsp; I'm Joseph Arias
 
 I'm a software engineer specializing in building beautiful interfaces & digital experiences.
 
